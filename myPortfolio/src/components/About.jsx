@@ -38,10 +38,10 @@ const About = () => {
               </p>
               <p className="mt-4 max-w-2xl text-justify text-xl text-gray-800 lg:mx-auto"></p>
             </div>
-            <div className="mt-10">
+            <div className="mt-10" id="skill">
               <div className="grid grid-cols-1 gap-12 lg:grid-cols-2">
-                <div>
-                  <h3 className="text-2xl font-semibold underline text-gray-900">
+                <div >
+                  <h3  className="text-2xl font-semibold underline text-gray-900">
                     My Journey 
                   </h3>
                   <p className="mt-4 text-lg text-gray-600">
@@ -56,7 +56,7 @@ const About = () => {
                   <img src={mern} alt="" className="p-2 rounded-lg w-52 mt-4" />
                 </div>
                 <div className="border border-red-200 rounded-lg md:p-7 py-7 flex flex-col gap-8  items-center shadow-lg shadow-blue-300">
-                  <h3 className="text-2xl underline font-semibold text-red-600">
+                  <h3 className="text-2xl underline font-semibold text-red-600" >
                     Skills & Expertise
                   </h3>
                   <div className="flex items-center justify-center flex-wrap gap-3">

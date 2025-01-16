@@ -53,10 +53,10 @@ const Contact = () => {
                 <a href="#" className="text-foreground/60 hover:text-forground/80">
                   <img src={instagram} alt="Instagram" className="h-6 w-6" />
                 </a>
-                <a href="#" className="text-foreground/60 hover:text-forground/80">
+                <a href="www.linkedin.com/in/kuldeep-gohel" className="text-foreground/60 hover:text-forground/80">
                   <img src={linkedin} alt="LinkedIn" className="h-6 w-6" />
                 </a>
-                <a href="#" className="text-foreground/60 hover:text-forground/80">
+                <a href="https://github.com/kuldeepgohel" className="text-foreground/60 hover:text-forground/80">
                   <img src={github} alt="GitHub" className="h-6 w-6" />
                 </a>
               </div>
